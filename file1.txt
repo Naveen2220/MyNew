@@ -1,0 +1,3 @@
+
+ 
+As you become more familiar with AWS services, we encourage you to learn how to manage your costs while exploring AWS service offerings. Get started by reviewing your overall spend and Free Tier usage in the AWS Billing Console.
